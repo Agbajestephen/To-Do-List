@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sanserif;
+  max-width: 400px;
+  margin: auto;
+}
+input,
+button {
+  margin: 5px 0;
+  padding: 8px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+  padding: 8;
+  border: 1px solid #ddd;
+}
